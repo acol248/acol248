@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I code things here and stuff...
+
 <!--
 **acol248/acol248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
